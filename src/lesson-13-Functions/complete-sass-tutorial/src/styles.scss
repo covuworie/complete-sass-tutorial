@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+// variables & functions
+@import "scss/functions";
+@import "scss/variables";
+
+// base & layout
+@import "scss/base";
+
+// colors
+@import "scss/colors";
+
+// components (button, card, navbar etc)
+// note with angular these go in the components directly
+
+// utilities (margin, padding, opacity, etc)
