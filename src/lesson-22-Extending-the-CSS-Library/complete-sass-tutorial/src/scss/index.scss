@@ -1,0 +1,17 @@
+// variables & functions
+@use "~src/shinobi/variables";
+@use "~src/shinobi/functions";
+
+// base & layout
+@use "~src/shinobi/base";
+@use "~src/shinobi/breakpoints";
+@use "~src/shinobi/grid";
+
+// colors
+@use "~src/shinobi/colors";
+
+// components (button, card, navbar etc)
+// note with angular these go in the components directly
+
+// utilities (margin, padding, opacity, etc)
+@use "~src/shinobi/utilities";

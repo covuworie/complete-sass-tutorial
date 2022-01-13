@@ -1,0 +1,7 @@
+@use "~src/shinobi/variables";
+
+.card-title {
+  font-size: variables.$font-size-lg;
+  padding-bottom: variables.$base-padding;
+  font-weight: bold;
+}
